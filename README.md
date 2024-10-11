@@ -1,1 +1,1 @@
-# CS-360
+# CS-360 Mobile Architect & Programming
